@@ -9,7 +9,7 @@ In the above neural network, we have 3 layers.
  
  w1,w2,w3,w4,w5,w6,w7,w8 are the weights.
  
- In this network we have two outputs. So we are have two errors E1 and E2.
+ In this network we have two outputs. So we are having two errors E1 and E2.
  
  E1 and E2 are L2 Error.
  
@@ -19,7 +19,7 @@ In the above neural network, we have 3 layers.
  
  For each epoch weight is modified such that the total error decreases
  
- New weights values are calculated from the previousweight value , learning rate and error gradient.
+ New weights values are calculated from the previous weight value , learning rate and error gradient.
  
  
 
