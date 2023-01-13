@@ -9,7 +9,7 @@ In the above neural network, we have 3 neural network.
  
  w1,w2,w3,w4,w5,w6,w7,w8 are the weights.
  
- In this network we have 2 output. So we have 2 Errors E1 and E2.
+ In this network we have two outputs. So we are have two errors E1 and E2.
  
  E1 and E2 are L2 Error.
  
