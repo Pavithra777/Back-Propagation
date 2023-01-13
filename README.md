@@ -1,7 +1,7 @@
 # Back-Propagation
 ![BackPropagation](https://user-images.githubusercontent.com/52197131/212425360-e165e1da-9b72-4f93-8233-d66e8e7688e1.png)
 
-In the above neural network, we have 3 neural network.
+In the above neural network, we have 3 layers.
 
   1. Input layer
   2. Hidden layer
