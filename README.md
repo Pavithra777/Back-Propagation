@@ -22,5 +22,31 @@ In the above neural network, we have 3 layers.
  New weights values are calculated from the previous weight value , learning rate and error gradient.
  
  
+ 
+ 
+ 
+ Graph with learning rate 0.1
+ 
+![image](https://user-images.githubusercontent.com/52197131/212430489-c646cd0e-8661-49c4-8dcb-bf9d9067ca84.png)
+
+ 
+ 
+ Graph with learning rate 0.01
+ 
+ ![image](https://user-images.githubusercontent.com/52197131/212430568-937d19bf-b937-43ee-8bc6-8eca7c0b72db.png)
+
+ 
+ 
+ 
+ Graph with learning rate 0.001
+ 
+
+![image](https://user-images.githubusercontent.com/52197131/212430612-1b423a6f-ecd5-4e89-bfdb-0475e0f22fba.png)
+
+
+
+
+ 
+ 
 
 
